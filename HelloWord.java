@@ -7,8 +7,10 @@ public class HelloWord {
 // java HelloWord Malia
 
 
+//ligne ajouter par oupere:
 
 
+"This document describes the installation of PostgreSQL using this source code distribution."
 
 PostgreSQL Installation from Source Code
 
