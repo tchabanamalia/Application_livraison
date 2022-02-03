@@ -5,8 +5,12 @@ public class HelloWord {
 }
 
 // java HelloWord Malia
+
 bonjour
-bonsoir
+
+"Bonjour la delice"
+"c'est comment"
+
 //ligne ajouter par oupere:
 
 
